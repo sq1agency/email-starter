@@ -2,6 +2,8 @@
 This starter kit is for projects centered on creating email templates.
 
 ## Usage
+__Note:__ You should use this starter kit with the [starter-kit](https://www.npmjs.com/package/starter-kit) utility.
+
 ```
 ./bin/dev-start
 ```
